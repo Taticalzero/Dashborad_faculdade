@@ -1,2 +1,5 @@
-# Dashborad_faculdade
-Dashboard criada com HTLM( Linguagem de marcação de texto) + Css Puro
+# Dashboard_faculdade
+Dashboard Simples
+Html
+Css
+frames icons and text font
